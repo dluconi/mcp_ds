@@ -1,0 +1,236 @@
+{
+  "tokens": {
+    "primitive": {
+      "Slide 16:9 - 1": "#ffffff",
+      "Frame 6": "#d9d9d9"
+    },
+    "semantic": {}
+  },
+  "buttons": {
+    "size=md, variant=primary, state=default, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=primary, state=default, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=default, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=default, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=destructive, state=default, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=destructive, state=default, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=outline, state=default, type=default": {
+      "color": "#ffffff"
+    },
+    "size=xs, variant=outline, state=default, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=outline, state=default, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=xs, variant=outline, state=default, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=ghost, state=default, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=ghost, state=default, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=link, state=default, type=default": {
+      "color": "#ffffff"
+    },
+    "size=xs, variant=link, state=default, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=link, state=default, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=outline, state=hover, type=default": {
+      "color": "#ebf0fa"
+    },
+    "size=xs, variant=outline, state=hover, type=default": {
+      "color": "#ebf0fa"
+    },
+    "size=md, variant=outline, state=hover, type=icon only": {
+      "color": "#ebf0fa"
+    },
+    "size=xs, variant=outline, state=hover, type=icon only": {
+      "color": "#ebf0fa"
+    },
+    "size=md, variant=ghost, state=hover, type=default": {
+      "color": "#ebf0fa"
+    },
+    "size=md, variant=ghost, state=hover, type=icon only": {
+      "color": "#ebf0fa"
+    },
+    "size=md, variant=link, state=hover, type=default": {
+      "color": "#ffffff"
+    },
+    "size=xs, variant=link, state=hover, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=link, state=hover, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=outline, state=active, type=default": {
+      "color": "#aec1ea"
+    },
+    "size=xs, variant=outline, state=active, type=default": {
+      "color": "#aec1ea"
+    },
+    "size=md, variant=outline, state=active, type=icon only": {
+      "color": "#aec1ea"
+    },
+    "size=xs, variant=outline, state=active, type=icon only": {
+      "color": "#aec1ea"
+    },
+    "size=md, variant=ghost, state=active, type=default": {
+      "color": "#aec1ea"
+    },
+    "size=md, variant=ghost, state=active, type=icon only": {
+      "color": "#aec1ea"
+    },
+    "size=md, variant=link, state=active, type=default": {
+      "color": "#d7e0f4"
+    },
+    "size=xs, variant=link, state=active, type=default": {
+      "color": "#d7e0f4"
+    },
+    "size=md, variant=link, state=active, type=icon only": {
+      "color": "#d7e0f4"
+    },
+    "size=md, variant=outline, state=focus, type=default": {
+      "color": "#aec1ea"
+    },
+    "size=xs, variant=outline, state=focus, type=default": {
+      "color": "#aec1ea"
+    },
+    "size=md, variant=outline, state=focus, type=icon only": {
+      "color": "#aec1ea"
+    },
+    "size=xs, variant=outline, state=focus, type=icon only": {
+      "color": "#aec1ea"
+    },
+    "size=md, variant=ghost, state=focus, type=default": {
+      "color": "#aec1ea"
+    },
+    "size=md, variant=ghost, state=focus, type=icon only": {
+      "color": "#aec1ea"
+    },
+    "size=md, variant=link, state=focus, type=default": {
+      "color": "#d7e0f4"
+    },
+    "size=xs, variant=link, state=focus, type=default": {
+      "color": "#d7e0f4"
+    },
+    "size=md, variant=link, state=focus, type=icon only": {
+      "color": "#d7e0f4"
+    },
+    "size=md, variant=destructive, state=hover, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=destructive, state=hover, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=destructive, state=active, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=destructive, state=active, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=destructive, state=focus, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=destructive, state=focus, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=primary, state=hover, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=primary, state=hover, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=hover, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=hover, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=primary, state=active, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=primary, state=active, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=active, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=active, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=primary, state=focus, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=primary, state=focus, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=focus, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=focus, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=primary, state=disabled, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=primary, state=disabled, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=disabled, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=secondary, state=disabled, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=destructive, state=disabled, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=destructive, state=disabled, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=outline, state=disabled, type=default": {
+      "color": "#ffffff"
+    },
+    "size=xs, variant=outline, state=disabled, type=default": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=outline, state=disabled, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=xs, variant=outline, state=disabled, type=icon only": {
+      "color": "#ffffff"
+    },
+    "size=md, variant=ghost, state=disabled, type=default": {
+      "color": "#cccccc"
+    },
+    "size=md, variant=ghost, state=disabled, type=icon only": {
+      "color": "#cccccc"
+    },
+    "size=md, variant=link, state=disabled, type=default": {
+      "color": "#cccccc"
+    },
+    "size=xs, variant=link, state=disabled, type=default": {
+      "color": "#cccccc"
+    },
+    "size=md, variant=link, state=disabled, type=icon only": {
+      "color": "#cccccc"
+    }
+  }
+}

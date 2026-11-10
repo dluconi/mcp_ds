@@ -1,0 +1,7 @@
+/* Design System: size=md, type=image */
+.ds-size-md-type-image {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

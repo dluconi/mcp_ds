@@ -1,0 +1,7 @@
+/* Design System: icon=shield */
+.ds-icon-shield {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

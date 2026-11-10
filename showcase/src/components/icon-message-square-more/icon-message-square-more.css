@@ -1,0 +1,7 @@
+/* Design System: icon=message-square-more */
+.ds-icon-message-square-more {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

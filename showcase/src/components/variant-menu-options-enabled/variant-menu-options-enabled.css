@@ -1,0 +1,7 @@
+/* Design System: variant=menu-options-enabled */
+.ds-variant-menu-options-enabled {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

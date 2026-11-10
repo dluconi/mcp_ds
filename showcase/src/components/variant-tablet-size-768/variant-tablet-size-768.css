@@ -1,0 +1,7 @@
+/* Design System: variant=tablet, size=768 */
+.ds-variant-tablet-size-768 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

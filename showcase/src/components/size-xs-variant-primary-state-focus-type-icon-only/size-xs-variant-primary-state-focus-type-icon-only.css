@@ -1,0 +1,7 @@
+/* Design System: size=xs, variant=primary, state=focus, type=icon only */
+.ds-size-xs-variant-primary-state-focus-type-icon-only {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

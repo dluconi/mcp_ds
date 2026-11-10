@@ -1,0 +1,7 @@
+/* Design System: icon=hammer */
+.ds-icon-hammer {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

@@ -1,0 +1,7 @@
+/* Design System: Property 1=mobile */
+.ds-property-1-mobile {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

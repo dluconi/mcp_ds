@@ -1,0 +1,412 @@
+{
+  "tokens": {
+    "primitive": {
+      "Frame 6": "#d9d9d9"
+    },
+    "semantic": {}
+  },
+  "buttons": {
+    "size=md, variant=primary, state=default, type=default": {
+      "colors": [
+        "#3664c9"
+      ]
+    },
+    "size=md, variant=primary, state=default, type=icon only": {
+      "colors": [
+        "#3664c9"
+      ]
+    },
+    "size=md, variant=secondary, state=default, type=default": {
+      "colors": [
+        "#ebf0fa",
+        "#203c79"
+      ]
+    },
+    "size=md, variant=secondary, state=default, type=icon only": {
+      "colors": [
+        "#ebf0fa"
+      ]
+    },
+    "size=md, variant=destructive, state=default, type=default": {
+      "colors": [
+        "#fb2c36"
+      ]
+    },
+    "size=md, variant=destructive, state=default, type=icon only": {
+      "colors": [
+        "#fb2c36"
+      ]
+    },
+    "size=md, variant=outline, state=default, type=default": {
+      "colors": [
+        "#3664c9"
+      ]
+    },
+    "size=xs, variant=outline, state=default, type=default": {
+      "colors": [
+        "#3664c9"
+      ]
+    },
+    "size=md, variant=outline, state=default, type=icon only": {
+      "colors": [
+        "#ffffff"
+      ]
+    },
+    "size=xs, variant=outline, state=default, type=icon only": {
+      "colors": [
+        "#ffffff"
+      ]
+    },
+    "size=md, variant=ghost, state=default, type=default": {
+      "colors": [
+        "#203c79"
+      ]
+    },
+    "size=md, variant=ghost, state=default, type=icon only": {
+      "colors": [
+        "#ffffff",
+        "#ffffff"
+      ]
+    },
+    "size=md, variant=link, state=default, type=default": {
+      "colors": [
+        "#203c79"
+      ]
+    },
+    "size=xs, variant=link, state=default, type=default": {
+      "colors": [
+        "#203c79"
+      ]
+    },
+    "size=md, variant=link, state=default, type=icon only": {
+      "colors": [
+        "#ffffff",
+        "#ffffff"
+      ]
+    },
+    "size=md, variant=outline, state=hover, type=default": {
+      "colors": [
+        "#ebf0fa",
+        "#3664c9"
+      ]
+    },
+    "size=xs, variant=outline, state=hover, type=default": {
+      "colors": [
+        "#ebf0fa",
+        "#3664c9"
+      ]
+    },
+    "size=md, variant=outline, state=hover, type=icon only": {
+      "colors": [
+        "#ebf0fa"
+      ]
+    },
+    "size=xs, variant=outline, state=hover, type=icon only": {
+      "colors": [
+        "#ebf0fa"
+      ]
+    },
+    "size=md, variant=ghost, state=hover, type=default": {
+      "colors": [
+        "#ebf0fa",
+        "#203c79"
+      ]
+    },
+    "size=md, variant=ghost, state=hover, type=icon only": {
+      "colors": [
+        "#ebf0fa"
+      ]
+    },
+    "size=md, variant=link, state=hover, type=default": {
+      "colors": [
+        "#203c79"
+      ]
+    },
+    "size=xs, variant=link, state=hover, type=default": {
+      "colors": [
+        "#203c79"
+      ]
+    },
+    "size=md, variant=link, state=hover, type=icon only": {
+      "colors": [
+        "#ffffff"
+      ]
+    },
+    "size=md, variant=outline, state=active, type=default": {
+      "colors": [
+        "#aec1ea",
+        "#203c79"
+      ]
+    },
+    "size=xs, variant=outline, state=active, type=default": {
+      "colors": [
+        "#aec1ea",
+        "#203c79"
+      ]
+    },
+    "size=md, variant=outline, state=active, type=icon only": {
+      "colors": [
+        "#aec1ea"
+      ]
+    },
+    "size=xs, variant=outline, state=active, type=icon only": {
+      "colors": [
+        "#aec1ea"
+      ]
+    },
+    "size=md, variant=ghost, state=active, type=default": {
+      "colors": [
+        "#aec1ea",
+        "#203c79"
+      ]
+    },
+    "size=md, variant=ghost, state=active, type=icon only": {
+      "colors": [
+        "#aec1ea"
+      ]
+    },
+    "size=md, variant=link, state=active, type=default": {
+      "colors": [
+        "#d7e0f4",
+        "#203c79"
+      ]
+    },
+    "size=xs, variant=link, state=active, type=default": {
+      "colors": [
+        "#d7e0f4",
+        "#203c79"
+      ]
+    },
+    "size=md, variant=link, state=active, type=icon only": {
+      "colors": [
+        "#d7e0f4"
+      ]
+    },
+    "size=md, variant=outline, state=focus, type=default": {
+      "colors": [
+        "#aec1ea",
+        "#3664c9"
+      ]
+    },
+    "size=xs, variant=outline, state=focus, type=default": {
+      "colors": [
+        "#aec1ea",
+        "#3664c9"
+      ]
+    },
+    "size=md, variant=outline, state=focus, type=icon only": {
+      "colors": [
+        "#aec1ea"
+      ]
+    },
+    "size=xs, variant=outline, state=focus, type=icon only": {
+      "colors": [
+        "#aec1ea"
+      ]
+    },
+    "size=md, variant=ghost, state=focus, type=default": {
+      "colors": [
+        "#aec1ea",
+        "#3664c9"
+      ]
+    },
+    "size=md, variant=ghost, state=focus, type=icon only": {
+      "colors": [
+        "#aec1ea"
+      ]
+    },
+    "size=md, variant=link, state=focus, type=default": {
+      "colors": [
+        "#d7e0f4",
+        "#3664c9"
+      ]
+    },
+    "size=xs, variant=link, state=focus, type=default": {
+      "colors": [
+        "#d7e0f4",
+        "#3664c9"
+      ]
+    },
+    "size=md, variant=link, state=focus, type=icon only": {
+      "colors": [
+        "#d7e0f4"
+      ]
+    },
+    "size=md, variant=destructive, state=hover, type=default": {
+      "colors": [
+        "#e7000b"
+      ]
+    },
+    "size=md, variant=destructive, state=hover, type=icon only": {
+      "colors": [
+        "#e7000b"
+      ]
+    },
+    "size=md, variant=destructive, state=active, type=default": {
+      "colors": [
+        "#c10007"
+      ]
+    },
+    "size=md, variant=destructive, state=active, type=icon only": {
+      "colors": [
+        "#c10007"
+      ]
+    },
+    "size=md, variant=destructive, state=focus, type=default": {
+      "colors": [
+        "#c10007"
+      ]
+    },
+    "size=md, variant=destructive, state=focus, type=icon only": {
+      "colors": [
+        "#c10007"
+      ]
+    },
+    "size=md, variant=primary, state=hover, type=default": {
+      "colors": [
+        "#2b50a1"
+      ]
+    },
+    "size=md, variant=primary, state=hover, type=icon only": {
+      "colors": [
+        "#2b50a1"
+      ]
+    },
+    "size=md, variant=secondary, state=hover, type=default": {
+      "colors": [
+        "#d7e0f4",
+        "#203c79"
+      ]
+    },
+    "size=md, variant=secondary, state=hover, type=icon only": {
+      "colors": [
+        "#d7e0f4"
+      ]
+    },
+    "size=md, variant=primary, state=active, type=default": {
+      "colors": [
+        "#203c79"
+      ]
+    },
+    "size=md, variant=primary, state=active, type=icon only": {
+      "colors": [
+        "#203c79"
+      ]
+    },
+    "size=md, variant=secondary, state=active, type=default": {
+      "colors": [
+        "#aec1ea",
+        "#203c79"
+      ]
+    },
+    "size=md, variant=secondary, state=active, type=icon only": {
+      "colors": [
+        "#aec1ea"
+      ]
+    },
+    "size=md, variant=primary, state=focus, type=default": {
+      "colors": [
+        "#203c79"
+      ]
+    },
+    "size=md, variant=primary, state=focus, type=icon only": {
+      "colors": [
+        "#203c79"
+      ]
+    },
+    "size=md, variant=secondary, state=focus, type=default": {
+      "colors": [
+        "#aec1ea",
+        "#203c79"
+      ]
+    },
+    "size=md, variant=secondary, state=focus, type=icon only": {
+      "colors": [
+        "#aec1ea"
+      ]
+    },
+    "size=md, variant=primary, state=disabled, type=default": {
+      "colors": [
+        "#cccccc",
+        "#808080"
+      ]
+    },
+    "size=md, variant=primary, state=disabled, type=icon only": {
+      "colors": [
+        "#cccccc"
+      ]
+    },
+    "size=md, variant=secondary, state=disabled, type=default": {
+      "colors": [
+        "#cccccc",
+        "#808080"
+      ]
+    },
+    "size=md, variant=secondary, state=disabled, type=icon only": {
+      "colors": [
+        "#cccccc"
+      ]
+    },
+    "size=md, variant=destructive, state=disabled, type=default": {
+      "colors": [
+        "#cccccc",
+        "#808080"
+      ]
+    },
+    "size=md, variant=destructive, state=disabled, type=icon only": {
+      "colors": [
+        "#cccccc"
+      ]
+    },
+    "size=md, variant=outline, state=disabled, type=default": {
+      "colors": [
+        "#cccccc",
+        "#808080"
+      ]
+    },
+    "size=xs, variant=outline, state=disabled, type=default": {
+      "colors": [
+        "#cccccc",
+        "#808080"
+      ]
+    },
+    "size=md, variant=outline, state=disabled, type=icon only": {
+      "colors": [
+        "#cccccc"
+      ]
+    },
+    "size=xs, variant=outline, state=disabled, type=icon only": {
+      "colors": [
+        "#cccccc"
+      ]
+    },
+    "size=md, variant=ghost, state=disabled, type=default": {
+      "colors": [
+        "#cccccc",
+        "#808080"
+      ]
+    },
+    "size=md, variant=ghost, state=disabled, type=icon only": {
+      "colors": [
+        "#cccccc"
+      ]
+    },
+    "size=md, variant=link, state=disabled, type=default": {
+      "colors": [
+        "#cccccc",
+        "#808080"
+      ]
+    },
+    "size=xs, variant=link, state=disabled, type=default": {
+      "colors": [
+        "#cccccc",
+        "#808080"
+      ]
+    },
+    "size=md, variant=link, state=disabled, type=icon only": {
+      "colors": [
+        "#cccccc"
+      ]
+    }
+  }
+}

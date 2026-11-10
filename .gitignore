@@ -1,0 +1,40 @@
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# Node / Frontend
+node_modules/
+dist/
+showcase/node_modules/
+showcase/dist/
+*.log
+npm-debug.log*
+
+# Local Database & Cache
+*.db
+*.sqlite
+*.sqlite3
+cache.db
+
+# External Clones & Local Dumps/Scratch
+Design_System/
+scratch/
+*git*mcp*/
+figma_*.json
+figma_*.txt
+top_level_nodes.txt
+
+# OS & Editors
+.DS_Store
+Thumbs.db

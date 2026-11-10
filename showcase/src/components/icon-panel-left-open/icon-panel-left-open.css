@@ -1,0 +1,7 @@
+/* Design System: icon=panel-left-open */
+.ds-icon-panel-left-open {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

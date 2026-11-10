@@ -1,0 +1,7 @@
+/* Design System: size=md, type=textarea, variant=active */
+.ds-size-md-type-textarea-variant-active {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

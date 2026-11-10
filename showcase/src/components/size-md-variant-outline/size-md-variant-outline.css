@@ -1,0 +1,7 @@
+/* Design System: size=md, variant=outline */
+.ds-size-md-variant-outline {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

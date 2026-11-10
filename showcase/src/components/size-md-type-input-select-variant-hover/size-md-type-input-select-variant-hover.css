@@ -1,0 +1,7 @@
+/* Design System: size=md, type=input+select, variant=hover */
+.ds-size-md-type-input-select-variant-hover {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

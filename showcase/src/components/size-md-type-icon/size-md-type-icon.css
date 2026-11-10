@@ -1,0 +1,7 @@
+/* Design System: size=md, type=icon */
+.ds-size-md-type-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

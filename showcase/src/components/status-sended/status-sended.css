@@ -1,0 +1,7 @@
+/* Design System: Status=sended */
+.ds-status-sended {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

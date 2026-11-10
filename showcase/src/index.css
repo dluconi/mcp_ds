@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@import "./tokens/component_tokens.css";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+@import "./tokens/component_tokens.css";
+
+@theme {
+  --color-brand-primary: #3664c9;
+  --color-brand-secondary: #ebf0fa;
+  --font-inter: "Inter", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply antialiased font-inter bg-[#0f172a];
+  }
+}
+
+.ds-navigationcard {
+  @apply transition-all duration-300;
+}
+
+:root {
+  background-color: #f8fafc;
+  color: #0f172a;
+  font-family: var(--font-inter);
+}

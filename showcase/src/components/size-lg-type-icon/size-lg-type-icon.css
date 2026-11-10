@@ -1,0 +1,7 @@
+/* Design System: size=lg, type=icon */
+.ds-size-lg-type-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

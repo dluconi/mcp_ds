@@ -1,0 +1,7 @@
+/* Design System: orientation=horizontal, variant=determined, indicator=75 */
+.ds-orientation-horizontal-variant-determined-indicator-75 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

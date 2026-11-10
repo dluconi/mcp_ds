@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mcp[python]
+httpx
+python-dotenv
+sqlmodel
+pydantic-settings
+requests

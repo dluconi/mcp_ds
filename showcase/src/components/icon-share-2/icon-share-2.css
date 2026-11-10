@@ -1,0 +1,7 @@
+/* Design System: icon=share-2 */
+.ds-icon-share-2 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

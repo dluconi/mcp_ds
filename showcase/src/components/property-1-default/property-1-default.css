@@ -1,0 +1,7 @@
+/* Design System: Property 1=Default */
+.ds-property-1-default {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}

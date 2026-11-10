@@ -1,0 +1,7 @@
+/* Design System: chat-options-menu */
+.ds-chat-options-menu {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
